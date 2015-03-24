@@ -1,0 +1,33 @@
+{
+	"name": "tesis/photos/twitter",
+    "description": "Importing photos from Twitter.",
+    "keywords": [
+      "social media",
+      "twitter"
+    ],
+    "license": "MIT",
+    "type": "project",
+    "homepage": "http://tesispro.com",
+    "authors" : [
+        {
+            "name": "Tereza Simcic",
+            "email": "tereza.simcic@gmail.com",
+            "email": "tereza@tesispro.com",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+      "phpunit/phpunit": "4.3.*",
+      "mockery/mockery": "0.9.*",
+      "phpspec/phpspec": "~2.1@dev"
+    },
+	"autoload": {
+        "psr-4": {
+            "Tesis\\Socials\\Twitter\\": "src"
+        }
+    },
+	"config": {
+		"preferred-install": "dist"
+	},
+    "minimum-stability": "stable"
+}

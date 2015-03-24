@@ -1,0 +1,342 @@
+tesis\socials\twitter\twitter Object
+(
+    [oauthAccessToken] => 16981655-NVhi5ltUKauKLGlQQvrQi3H1n9WUKvU8GaPXeGvd7
+    [oauthAccessTokenSecret] => MoI0Wq3kbHK7DFLDuaOSftwIzbea9RcUx0GIqROrr0adw
+    [consumerKey] => NvYkl2BbhRLfTtqkgA2Mj9AtF
+    [consumerSecret] => zHpnHz9dcaD3CbMqNrtQC8OhzXORQGGpj0Xug0icSNqWrJ07RC
+    [getfield] => 
+    [oauth] => Array
+        (
+            [oauth_consumer_key] => NvYkl2BbhRLfTtqkgA2Mj9AtF
+            [oauth_nonce] => 1426960381
+            [oauth_signature_method] => HMAC-SHA1
+            [oauth_token] => 16981655-NVhi5ltUKauKLGlQQvrQi3H1n9WUKvU8GaPXeGvd7
+            [oauth_timestamp] => 1426960381
+            [oauth_version] => 1.0
+            [q] => %23%23dog
+            [result_type] => recent
+            [count] => 20
+            [filter] => images
+            [include_entities] => true
+            [trim_user] => false
+            [include_rts] => false
+            [oauth_signature] => Nw3SCo5u9ZaiUNZsgyqxcgd/dg4=
+        )
+
+    [url] => https://api.twitter.com/1.1/search/tweets.json
+    [baseUrl] => https://api.twitter.com/1.1/search/tweets.json
+    [requestMethod] => GET
+    [searchParams] => ?q=%23%23dog&result_type=recent&count=20&filter=images&include_entities=true&trim_user=false&include_rts=false
+    [delimiter] => ?q=
+    [numberOfPhotos] => 20
+    [resultType] => recent
+    [setGeolocation] => 
+    [setLang] => 
+    [photoFilters] => filter=images&include_entities=true&trim_user=false&include_rts=false
+    [maxId] => 579337970362101760
+    [uniqueRecords] => Array
+        (
+            [0] => 579339677682913280
+            [1] => 579338649885650944
+            [2] => 579327662365143040
+            [3] => 568001195290402816
+            [4] => 579089268049625088
+            [5] => 579089496702074880
+            [6] => 579338935454674945
+            [7] => 579338728881029120
+            [8] => 579338601210736641
+            [9] => 576649110985420800
+            [10] => 576770436345761793
+            [11] => 576832855050838016
+            [12] => 577492560421072898
+            [13] => 579032680030928896
+            [14] => 579338112196829184
+            [15] => 579090075490906112
+            [16] => 579091050070974464
+        )
+
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => adopt
+                            [1] => adoption
+                            [2] => chulavista
+                            [3] => dog
+                            [4] => event
+                            [5] => foreverhome
+                            [6] => foster
+                            [7] => petsmart
+                        )
+
+                    [text] => We have a  #dog #adoption #event today from11am to 3pm at your #chulavista #petsmart . #adopt #foster #foreverhome http://t.co/UucrT1dkR4
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo6XgyUUAA2qYI.jpg
+                    [id] => 579339677682913280
+                )
+
+            [1] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => breedrescue
+                            [1] => cockerspaniel
+                            [2] => dog
+                            [3] => dogrescue
+                            [4] => dogs
+                            [5] => rehome
+                        )
+
+                    [text] => RT @PetAdoptionUK: 7 #COCKERSPANIEL #DOG looking for new homes via http://t.co/UQF3ey2Fy1 or APP #DogRescue #BreedRescue #Dogs #Rehome http…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo5br8WsAA_ch3.jpg
+                    [id] => 579338649885650944
+                )
+
+            [2] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => beautiful
+                            [1] => dog
+                        )
+
+                    [text] => RT @Setorii: Perfect #dog play date morning with the #beautiful @wendydiamond and Enzo http://t.co/LFOTYE3l3S
+                    [mediaUrl] => http://pbs.twimg.com/media/CAovcIPU8AAbwQk.jpg
+                    [id] => 579327662365143040
+                )
+
+            [3] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => cute
+                            [1] => dog
+                            [2] => pug
+                            [3] => pugs
+                            [4] => puppies
+                            [5] => puppy
+                        )
+
+                    [text] => RT @awesomepugs: #pug #dog #puppies #puppy #cute #pugs http://t.co/3Y8mJBX8Ws
+                    [mediaUrl] => http://pbs.twimg.com/media/B-HyE-VIIAAJKIp.jpg
+                    [id] => 568001195290402816
+                )
+
+            [4] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => adopt
+                            [1] => dog
+                            [2] => foster
+                            [3] => hero
+                            [4] => life
+                            [5] => love
+                            [6] => rescue
+                            [7] => savebaloo
+                        )
+
+                    [text] => RT @UrgentPart2: #SaveBALOO 2YR #Dog 2Die 3/21 @NYCACC #Hero 2 #Adopt Online #Foster 4 #Rescue #Love #Life
+https://t.co/ziwi96ZoIl http://t…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAlWnwNWwAAKc_K.jpg
+                    [id] => 579089268049625088
+                )
+
+            [5] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => adopt
+                            [1] => dog
+                            [2] => foster
+                            [3] => hero
+                            [4] => love
+                            [5] => rescue
+                            [6] => savericardo
+                        )
+
+                    [text] => RT @UrgentPart2: #SaveRICARDO 5YR #Dog 2Die 3/21 @NYCACC #Hero 2 #Adopt OR #Foster from #Rescue #Love NHONLY
+https://t.co/BbMJcp9LuM http:/…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAlW1EAWQAAwp1k.jpg
+                    [id] => 579089496702074880
+                )
+
+            [6] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => day11
+                            [1] => dog
+                            [2] => dogbffs
+                            [3] => dogsitting
+                        )
+
+                    [text] => Our #dog will miss our dau's dog when he lvs tomorrow #dogsitting #day11 #dogBFFs http://t.co/h9urc4OAhS
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo5sTxUMAEpUrn.jpg
+                    [id] => 579338935454674945
+                )
+
+            [7] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => dog
+                            [1] => jobs
+                            [2] => newyork
+                            [3] => trainer
+                        )
+
+                    [text] => Petco is hiring! #Dog #Trainer / Apprentice in #NewYork, apply now! #jobs http://t.co/5eujXfJus2 http://t.co/O6NM4uTRAa
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo5gSOUgAAB-Nd.png
+                    [id] => 579338728881029120
+                )
+
+            [9] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => dog
+                            [1] => dogs
+                            [2] => pug
+                            [3] => pugs
+                            [4] => pugsofinstagr
+                        )
+
+                    [text] => Всем хорошего вечера!😉🐶🐾 // Good evening everyone!😉🐶🐾 #pug #dog #pugs #dogs #pugsofinstagr… http://t.co/2cp2xGly8z http://t.co/puIHliHNEz
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo5Y2nWcAEsomi.jpg
+                    [id] => 579338601210736641
+                )
+
+            [10] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => dog
+                            [1] => dogs
+                            [2] => dogworld
+                        )
+
+                    [text] => RT @DogWorId: He may just be a part of your life....but to him you are EVERYTHING. #dog #dogs #dogworld http://t.co/jiJhsvL3xN
+                    [mediaUrl] => http://pbs.twimg.com/media/CACrT6xUsAAPd2B.jpg
+                    [id] => 576649110985420800
+                )
+
+            [11] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => dog
+                            [1] => dogs
+                        )
+
+                    [text] => RT @DogWorId: Shy little guy😃 #dog #dogs http://t.co/FE2vxatQXK
+                    [mediaUrl] => http://pbs.twimg.com/media/CAEZp-9WEAE0mP0.jpg
+                    [id] => 576770436345761793
+                )
+
+            [12] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => dog
+                            [1] => dogs
+                            [2] => dogworld
+                            [3] => superhero
+                        )
+
+                    [text] => RT @DogWorId: Superdog is here to save you with the power of cuteness!! #dog #dogs #superhero #dogworld http://t.co/O2oc2yqXoa
+                    [mediaUrl] => http://pbs.twimg.com/media/CAFSbOwUYAAjHkD.jpg
+                    [id] => 576832855050838016
+                )
+
+            [13] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => animals
+                            [1] => dog
+                            [2] => dogs
+                        )
+
+                    [text] => RT @DogWorId: Just reading don't mind me 😘 #dog #dogs #Animals http://t.co/FG6foaznlI
+                    [mediaUrl] => http://pbs.twimg.com/media/CAOqbIxUMAI7fRV.jpg
+                    [id] => 577492560421072898
+                )
+
+            [14] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => cat
+                            [1] => dog
+                            [2] => stopyulin2015
+                        )
+
+                    [text] => RT @isaacBIOvega: Por FAVOR😿 ¡FIRMA!
+RT 🆘 SIGN to END Barbaric #STOPYulin2015 #DOG &amp; #CAT Slaughter 'Festival' 💔 http://t.co/Zui2Ug5upI htt…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAkjJ5aWAAAXE_d.jpg
+                    [id] => 579032680030928896
+                )
+
+            [15] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => cute
+                            [1] => dog
+                            [2] => pug
+                            [3] => pugs
+                            [4] => puppies
+                            [5] => puppy
+                        )
+
+                    [text] => #pug #dog #puppies #puppy #cute #pugs http://t.co/sK8jxUSFFN
+                    [mediaUrl] => http://pbs.twimg.com/media/CAo48Y5WYAAydH6.jpg
+                    [id] => 579338112196829184
+                )
+
+            [18] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => adopt
+                            [1] => dog
+                            [2] => foster
+                            [3] => hero
+                            [4] => life
+                            [5] => love
+                            [6] => rescue
+                            [7] => savetonto
+                        )
+
+                    [text] => RT @UrgentPart2: #SaveTONTO 1YR #Dog 2Die 3/21 @NYCACC #Hero 2 #Adopt Online #Foster 4 #Rescue #Love #Life
+https://t.co/NZvSLpM76o http://t…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAlXWwKW8AAIGKS.jpg
+                    [id] => 579090075490906112
+                )
+
+            [19] => Array
+                (
+                    [tags] => Array
+                        (
+                            [0] => adopt
+                            [1] => dog
+                            [2] => foster
+                            [3] => hero
+                            [4] => life
+                            [5] => love
+                            [6] => rescue
+                            [7] => savelucy
+                        )
+
+                    [text] => RT @UrgentPart2: #SaveLUCY 2YR #Dog 2Die 3/21 @NYCACC #Hero 2 #Adopt Online #Foster 4 #Rescue #Love #Life
+https://t.co/hBoDcqc21n http://t.…
+                    [mediaUrl] => http://pbs.twimg.com/media/CAlYPewWoAA8O8f.jpg
+                    [id] => 579091050070974464
+                )
+
+        )
+
+    [screenName] => stereza
+)
